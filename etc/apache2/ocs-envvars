@@ -1,0 +1,9 @@
+####################
+# OCS env variables
+export OCS_DB_HOST
+export OCS_DB_PORT
+export OCS_DB_NAME
+export OCS_DB_LOCAL=$OCS_DB_NAME
+export OCS_DB_USER
+export OCS_DB_PWD
+####################
